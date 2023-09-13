@@ -1,7 +1,8 @@
 # Oceana FRC Team 6128
 This code uses a `tank drivetrain` (left joystick controls left side, and the right joystick controls right side). The drivetrain uses two SparkMax motor controllers, one for the left side wheels, one for the right side wheels. The driver uses an xbox controller to sends signals to the SparkMax motor controller through a computer, and across the Control Area Network (CAN) "bus". A simple autonomous mode is also included. This project demonstrates the command-based programming paradigm (directory/folder structure).
 
-[![6128](images/6128.png)](https://www.youtube.com/watch?v=C77dCZUTUpo){:target="_blank"}
+[![6128](images/6128.png)](https://www.youtube.com/watch?v=C77dCZUTUpo)
+
 
 # Definitions
 
